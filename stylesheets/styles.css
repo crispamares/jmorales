@@ -93,6 +93,8 @@ th {
 
 img {
   max-width:100%;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 15px #888;
 }
 
 header {
@@ -181,6 +183,10 @@ footer {
   float:left;
   position:fixed;
   bottom:50px;
+}
+
+.right {
+  text-align:right;
 }
 
 @media print, screen and (max-width: 960px) {
