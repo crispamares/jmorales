@@ -18,7 +18,7 @@ highlight_code = false
 # Put all your custom variables here
 
 menu = [
-    { name = "/research", url = "/", weight = 1 },
+    { name = "/research", url = "/jmorales", weight = 1 },
 ]
 
 socials = [
