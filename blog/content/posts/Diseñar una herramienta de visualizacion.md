@@ -3,7 +3,7 @@ title = "De cómo diseñar una herramienta de visualización"
 date = "2022-08-27"
 +++
 
-La mayoría de diseñadores que se enfrentan a la visualización de datos se encuentran con el problema de comunicar cierta cantidad de datos de una manera clara y atractiva. Ese escenario, dependiendo de los datos y el contexto, puede ser más o menos complicado. No es lo mismo que el receptor del mensaje sea el consejo de administración, al que se le supone un mínimo de conocimiento técnico y sobre todo interés por el mensaje; a que se esté diseñando una visualización para el gran público, que va a ser transmitida a través de la pequeña pantalla de un teléfono móvil y compitiendo por la atención del receptor.
+La mayoría de diseñadores que se enfrentan a la visualización de datos se encuentran con el problema de comunicar cierta cantidad de datos de una manera clara y atractiva. Ese escenario, dependiendo de los datos y el contexto, puede ser más o menos complicado. No es lo mismo que el receptor del mensaje sea el consejo de administración de una empresa, al que se le supone un mínimo de conocimiento técnico y sobre todo interés por el mensaje; a que se esté diseñando una visualización para el gran público, que va a ser transmitida a través de la pequeña pantalla de un teléfono móvil y además, compitiendo por la atención del receptor.
 
 Tampoco es lo mismo tener que comunicar cuál es la ocupación hotelera en las diferentes comunidades autónomas, a tener que transmitir cómo ha sido el efecto de las ofertas de descuento lanzadas a lo largo del año pasado sobre las ventas de cada producto, por tienda.
 
