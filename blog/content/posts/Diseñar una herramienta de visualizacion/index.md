@@ -36,9 +36,9 @@ Y es que hacerlo todo añadiría complejidad no sólo a la hora de diseñar los 
 
 Dependiendo de las respuestas a las preguntas anteriores deberías elegir el paradigma que vas a seguir a la hora de diseñar tu herramienta de visualización. Esta decisión es con seguridad la que va a marcar de manera más profunda la forma y la función de la interfaz.
 
-A día de hoy a hay dos líneas maestras, ya probadas, entre las que podemos elegir. O hacer una herramienta de visualización basada en una gramática visual o hacer una herramienta de visualización basada en Charts (gráficos). Existe un tercer paradigma basado en interacción directa que todavía está en fase de investigación pero que conviene seguirle la pista por prometedor.
+A día de hoy a hay dos líneas maestras, ya probadas, entre las que podemos elegir. Podemos hacer una herramienta de visualización basada en una gramática visual o hacer una herramienta de visualización basada en Charts (gráficos). Existe un tercer paradigma basado en interacción directa que todavía está en fase de investigación pero que conviene seguirle la pista por prometedor.
 
-![Paradigmas](/img/Paradigmas.png)
+![Paradigmas](Paradigmas.png)
 
 ### Basados en gráficos
 
@@ -58,7 +58,7 @@ Todavía en investigación, los sistemas basados en interacción directa quieren
 
 ## 3. Ya estaría
 
-Es guasa. Todavía queda lo más complicado, los detalles. Pero al menos, eligiendo el paradigma más adecuado para las necesidades de tus usuarios, sabrás que empiezas a diseñar una herramienta de visualización "a lomos de gigantes".
+[Es guasa](https://www.youtube.com/watch?v=wZeGygfaZ8M). Queda lo más complicado, todos los detalles. Pero al menos, eligiendo el paradigma más adecuado para las necesidades de tus usuarios, sabrás que empiezas a diseñar una herramienta de visualización "a lomos de gigantes".
 
 Si quieres seguir leyendo sobre el tema:
 
