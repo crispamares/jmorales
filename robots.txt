@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: http://crispamares.github.io/jmorales/sitemap.xml
